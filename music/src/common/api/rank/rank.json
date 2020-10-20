@@ -1,0 +1,754 @@
+{
+  "group": [{
+    "groupID": 0,
+    "groupName": "巅峰榜",
+    "toplist": [{
+      "AdShareContent": "飙升榜 2020年第226天",
+      "musichallTitle": "飙升榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002YVMmh4JD2Ai.jpg",
+      "topId": 62,
+      "rankSong": [{
+        "singerMid": "000PJRig3WnHYX",
+        "singerName": "硬糖少女303希林娜依·高",
+        "songId": 274132055,
+        "title": "2030，我想对你说"
+      }, {
+        "singerMid": "0022VU5J1D8BRP",
+        "singerName": "胡彦斌",
+        "songId": 274504580,
+        "title": "争霸"
+      }, {
+        "singerMid": "004g2nMa0L5014",
+        "singerName": "杨馥伊",
+        "songId": 274491132,
+        "title": "撤回"
+      }]
+    }, {
+      "AdShareContent": "热歌榜 2020年第33周",
+      "musichallTitle": "热歌榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000036Rnb93rAWbG.jpg",
+      "topId": 26,
+      "rankSong": [{
+        "singerMid": "00067r4p0wBDDN",
+        "singerName": "任然",
+        "songId": 270283298,
+        "title": "飞鸟和蝉"
+      }, {
+        "singerMid": "000zmpju02bEBm",
+        "singerName": "TFBOYS",
+        "songId": 274114008,
+        "title": "和你在一起"
+      }, {
+        "singerMid": "002YetSZ06c9c9",
+        "singerName": "王靖雯不胖",
+        "songId": 273429727,
+        "title": "不知所措"
+      }]
+    }, {
+      "AdShareContent": "新歌榜 2020年第226天",
+      "musichallTitle": "新歌榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001T64yJ3ZQyU0.jpg",
+      "topId": 27,
+      "rankSong": [{
+        "singerMid": "002J4UUk29y8BY",
+        "singerName": "薛之谦",
+        "songId": 272125057,
+        "title": "天外来物"
+      }, {
+        "singerMid": "004E2BBy3X9xne",
+        "singerName": "王俊凯",
+        "songId": 274359375,
+        "title": "Beautiful"
+      }, {
+        "singerMid": "000zmpju02bEBm",
+        "singerName": "TFBOYS",
+        "songId": 274114008,
+        "title": "和你在一起"
+      }]
+    }, {
+      "AdShareContent": "流行指数榜 2020年第226天",
+      "musichallTitle": "流行指数榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000MwR2O32CrSO.jpg",
+      "topId": 4,
+      "rankSong": [{
+        "singerMid": "002YetSZ06c9c9",
+        "singerName": "王靖雯不胖",
+        "songId": 273429727,
+        "title": "不知所措"
+      }, {
+        "singerMid": "000PJRig3WnHYX",
+        "singerName": "硬糖少女303希林娜依·高",
+        "songId": 274132055,
+        "title": "2030，我想对你说"
+      }, {
+        "singerMid": "000zmpju02bEBm",
+        "singerName": "TFBOYS",
+        "songId": 274114008,
+        "title": "和你在一起"
+      }]
+    }, {
+      "AdShareContent": "听歌识曲榜 2020年第226天",
+      "musichallTitle": "听歌识曲榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001zuyQy3jKyzt.jpg",
+      "topId": 67,
+      "rankSong": [{
+        "singerMid": "003QVy0K4cS3UU",
+        "singerName": "9妹",
+        "songId": 273842850,
+        "title": "Huynh De A (抖音完整原版)"
+      }, {
+        "singerMid": "002KASw53FQbTK",
+        "singerName": "王者荣耀/Ki:Theory",
+        "songId": 271157473,
+        "title": "Evolve（淬炼)"
+      }, {
+        "singerMid": "00067r4p0wBDDN",
+        "singerName": "任然",
+        "songId": 270283298,
+        "title": "飞鸟和蝉"
+      }]
+    }, {
+      "AdShareContent": "MV榜 ",
+      "musichallTitle": "MV榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001bZ19H2a3YCh.jpg",
+      "topId": 201,
+      "rankSong": [{
+        "singerMid": "0025NhlN2yWrP4",
+        "singerName": "周杰伦",
+        "songId": 0,
+        "title": "Mojito"
+      }, {
+        "singerMid": "003DBAjk2MMfhR",
+        "singerName": "BLACKPINK",
+        "songId": 0,
+        "title": "How You Like That"
+      }, {
+        "singerMid": "002MfEld3FWp0R",
+        "singerName": "张艺兴",
+        "songId": 0,
+        "title": "莲"
+      }]
+    }]
+  }, {
+    "groupID": 1,
+    "groupName": "地区榜",
+    "toplist": [{
+      "AdShareContent": "内地榜 2020年第33周",
+      "musichallTitle": "内地榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003rP2zp4Y0E79.jpg",
+      "topId": 5,
+      "rankSong": [{
+        "singerMid": "000zmpju02bEBm",
+        "singerName": "TFBOYS",
+        "songId": 274114008,
+        "title": "和你在一起"
+      }, {
+        "singerMid": "004E2BBy3X9xne",
+        "singerName": "王俊凯",
+        "songId": 274359375,
+        "title": "Beautiful"
+      }, {
+        "singerMid": "00067r4p0wBDDN",
+        "singerName": "任然",
+        "songId": 270283298,
+        "title": "飞鸟和蝉"
+      }]
+    }, {
+      "AdShareContent": "香港地区榜 2020年第33周",
+      "musichallTitle": "香港地区榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003Wtfmt3gpqXq.jpg",
+      "topId": 59,
+      "rankSong": [{
+        "singerMid": "0001lZdB0X5klv",
+        "singerName": "JW",
+        "songId": 273910319,
+        "title": "七友"
+      }, {
+        "singerMid": "003Nz2So3XXYek",
+        "singerName": "陈奕迅",
+        "songId": 271737658,
+        "title": "Shall We Talk (Tre Lune MMXIX)"
+      }, {
+        "singerMid": "0025uYT23dPLye",
+        "singerName": "许靖韵",
+        "songId": 270536475,
+        "title": "我们都错"
+      }]
+    }, {
+      "AdShareContent": "台湾地区榜 2020年第33周",
+      "musichallTitle": "台湾地区榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001mOBLF1igOTG.jpg",
+      "topId": 61,
+      "rankSong": [{
+        "singerMid": "002raUWw3PXdkT",
+        "singerName": "张韶涵",
+        "songId": 265649028,
+        "title": "破茧"
+      }, {
+        "singerMid": "001BLpXF2DyJe2",
+        "singerName": "林俊杰/孙燕姿",
+        "songId": 273914656,
+        "title": "Stay With You (英文版)"
+      }, {
+        "singerMid": "002raUWw3PXdkT",
+        "singerName": "张韶涵",
+        "songId": 272898433,
+        "title": "决斗场见"
+      }]
+    }, {
+      "AdShareContent": "欧美榜 2020年第33周",
+      "musichallTitle": "欧美榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002V7dvt0kTw3B.jpg",
+      "topId": 3,
+      "rankSong": [{
+        "singerMid": "004LhKMW2CWJox",
+        "singerName": "Troye Sivan",
+        "songId": 274077223,
+        "title": "Rager teenager! (Explicit)"
+      }, {
+        "singerMid": "0034MZS446AF7O",
+        "singerName": "Billie Eilish",
+        "songId": 273757118,
+        "title": "my future"
+      }, {
+        "singerMid": "003KiJMA3QCdjW",
+        "singerName": "Cardi B/Megan Thee Stallion",
+        "songId": 274191968,
+        "title": "WAP (feat. Megan Thee Stallion) (Explicit)"
+      }]
+    }, {
+      "AdShareContent": "韩国榜 2020年第33周",
+      "musichallTitle": "韩国榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000046lsMT24nPic.jpg",
+      "topId": 16,
+      "rankSong": [{
+        "singerMid": "001aAX6V1QArFZ",
+        "singerName": "华莎 (화사)",
+        "songId": 270029523,
+        "title": "마리아 (Maria)"
+      }, {
+        "singerMid": "003vyfn53Ir2gh",
+        "singerName": "TREASURE (트레저)",
+        "songId": 274223781,
+        "title": "BOY"
+      }, {
+        "singerMid": "000W5wAZ1rmoPg",
+        "singerName": "全昭弥 (전소미)",
+        "songId": 272969601,
+        "title": "What You Waiting For"
+      }]
+    }, {
+      "AdShareContent": "日本榜 2020年第33周",
+      "musichallTitle": "日本榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001h27cQ3llqVL.jpg",
+      "topId": 17,
+      "rankSong": [{
+        "singerMid": "000LExWa0hMj4m",
+        "singerName": "米津玄師 (よねづ けんし)",
+        "songId": 273626280,
+        "title": "カムパネルラ (康贝瑞拉)"
+      }, {
+        "singerMid": "000LExWa0hMj4m",
+        "singerName": "米津玄師 (よねづ けんし)",
+        "songId": 273626282,
+        "title": "感電"
+      }, {
+        "singerMid": "000LExWa0hMj4m",
+        "singerName": "米津玄師 (よねづ けんし)/野田洋次郎 (illion)",
+        "songId": 273626283,
+        "title": "PLACEBO"
+      }]
+    }]
+  }, {
+    "groupID": 2,
+    "groupName": "特色榜",
+    "toplist": [{
+      "AdShareContent": "网络歌曲榜 2020年第33周",
+      "musichallTitle": "网络歌曲榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000r8z0932Wm88.jpg",
+      "topId": 28,
+      "rankSong": [{
+        "singerMid": "002YetSZ06c9c9",
+        "singerName": "王靖雯不胖",
+        "songId": 273429727,
+        "title": "不知所措"
+      }, {
+        "singerMid": "0041BfPu1V60h2",
+        "singerName": "苏晗",
+        "songId": 273444023,
+        "title": "我的世界没有你"
+      }, {
+        "singerMid": "002EAAXG3QpAUO",
+        "singerName": "林小珂",
+        "songId": 270927135,
+        "title": "爱，存在"
+      }]
+    }, {
+      "AdShareContent": "DJ舞曲榜 2020年第33周",
+      "musichallTitle": "DJ舞曲榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002ZwhgX4dWi4w.jpg",
+      "topId": 63,
+      "rankSong": [{
+        "singerMid": "001VVnba4EkkJH",
+        "singerName": "Hot Music",
+        "songId": 270714932,
+        "title": "无人之岛 (Remix)"
+      }, {
+        "singerMid": "000cM4bX2pj35c",
+        "singerName": "吃可爱多吗",
+        "songId": 273608131,
+        "title": "swagger (原唱: P.W.W.画风风)"
+      }, {
+        "singerMid": "002e3d8x1YQ20Y",
+        "singerName": "街溜子",
+        "songId": 273897187,
+        "title": "Swagger (抖音完整原版)"
+      }]
+    }, {
+      "AdShareContent": "Q音快手榜 2020年第32周",
+      "musichallTitle": "Q音快手榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003Bw5D82RXZe4.jpg",
+      "topId": 74,
+      "rankSong": [{
+        "singerMid": "004WYT5j1s7R6Y",
+        "singerName": "海来阿木",
+        "songId": 265792112,
+        "title": "你的万水千山"
+      }, {
+        "singerMid": "004GZcGF2ZgJYo",
+        "singerName": "白小白",
+        "songId": 258222697,
+        "title": "我爱你不问归期"
+      }, {
+        "singerMid": "000aHmbL2aPXWH",
+        "singerName": "李荣浩",
+        "songId": 105526949,
+        "title": "爸爸妈妈"
+      }]
+    }, {
+      "AdShareContent": "抖音排行榜 2020年第33周",
+      "musichallTitle": "抖音排行榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000041AumO4RlMCo.jpg",
+      "topId": 60,
+      "rankSong": [{
+        "singerMid": "000lrEHw0QF1NA",
+        "singerName": "邵帅",
+        "songId": 273790050,
+        "title": "你是人间四月天 (Live)"
+      }, {
+        "singerMid": "002ad7mU1F98T0",
+        "singerName": "赵芷彤",
+        "songId": 266688363,
+        "title": "甜甜咸咸"
+      }, {
+        "singerMid": "00067r4p0wBDDN",
+        "singerName": "任然",
+        "songId": 270283298,
+        "title": "飞鸟和蝉"
+      }]
+    }, {
+      "AdShareContent": "综艺新歌榜 2020年第33周",
+      "musichallTitle": "综艺新歌榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001pCwAf3CXZV6.jpg",
+      "topId": 64,
+      "rankSong": [{
+        "singerMid": "000lrEHw0QF1NA",
+        "singerName": "邵帅",
+        "songId": 273790050,
+        "title": "你是人间四月天 (Live)"
+      }, {
+        "singerMid": "002SDV6x29GIF0",
+        "singerName": "康姆士乐团",
+        "songId": 274239929,
+        "title": "你要如何，我们就如何 (Live)"
+      }, {
+        "singerMid": "004BCTpN1juWpj",
+        "singerName": "彭磊/郁可唯/宁静/白冰/蓝盈莹/王霏霏",
+        "songId": 274124877,
+        "title": "没有理想的人不伤心 (Live)"
+      }]
+    }, {
+      "AdShareContent": "影视金曲榜 2020年第33周",
+      "musichallTitle": "影视金曲榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000yqjzW2Sm3pE.jpg",
+      "topId": 29,
+      "rankSong": [{
+        "singerMid": "0022DRSx1GZbbS",
+        "singerName": "金池",
+        "songId": 271916137,
+        "title": "座位"
+      }, {
+        "singerMid": "001Iu4Dv1NzRCD",
+        "singerName": "摩登兄弟刘宇宁",
+        "songId": 274071968,
+        "title": "琉璃"
+      }, {
+        "singerMid": "0022DRSx1GZbbS",
+        "singerName": "金池",
+        "songId": 271916148,
+        "title": "另一半"
+      }]
+    }, {
+      "AdShareContent": "国风热歌榜 2020年第33周",
+      "musichallTitle": "国风热歌榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003lrMjN2k9T9c.jpg",
+      "topId": 65,
+      "rankSong": [{
+        "singerMid": "0022VU5J1D8BRP",
+        "singerName": "胡彦斌",
+        "songId": 274504580,
+        "title": "争霸"
+      }, {
+        "singerMid": "003sflKp4X2sqG",
+        "singerName": "韩潇",
+        "songId": 272705403,
+        "title": "行至春深"
+      }, {
+        "singerMid": "001B2drs3Jq4EX",
+        "singerName": "等什么君",
+        "songId": 271099605,
+        "title": "春庭雪"
+      }]
+    }, {
+      "AdShareContent": "说唱榜 2020年第33周",
+      "musichallTitle": "说唱榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002uaVw84A3jyv.jpg",
+      "topId": 58,
+      "rankSong": [{
+        "singerMid": "001JJMEP10fJ5E",
+        "singerName": "THE9",
+        "songId": 274117907,
+        "title": "Not Me"
+      }, {
+        "singerMid": "001FnFCA2e29yp",
+        "singerName": "aZi/Lil Howcy/lil milk/连麻Swimming/Kc",
+        "songId": 273802010,
+        "title": "像极了 (Live)"
+      }, {
+        "singerMid": "003Xf2W10FZgVW",
+        "singerName": "Lil Ghost小鬼/连麻Swimming",
+        "songId": 274262081,
+        "title": "In my zone (Live)"
+      }]
+    }, {
+      "AdShareContent": "电音榜 2020年第33周",
+      "musichallTitle": "电音榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000031jPdt47lTEc.jpg",
+      "topId": 57,
+      "rankSong": [{
+        "singerMid": "000W5wAZ1rmoPg",
+        "singerName": "全昭弥 (전소미)",
+        "songId": 272969601,
+        "title": "What You Waiting For"
+      }, {
+        "singerMid": "002MUFZM3LoKnS",
+        "singerName": "徐梦圆",
+        "songId": 273897325,
+        "title": "Better with you"
+      }, {
+        "singerMid": "000LExWa0hMj4m",
+        "singerName": "米津玄師 (よねづ けんし)/野田洋次郎 (illion)",
+        "songId": 273626283,
+        "title": "PLACEBO"
+      }]
+    }, {
+      "AdShareContent": "动漫音乐榜 2020年第33周",
+      "musichallTitle": "动漫音乐榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003XxnUr01edtZ.jpg",
+      "topId": 72,
+      "rankSong": [{
+        "singerMid": "002raUWw3PXdkT",
+        "singerName": "张韶涵",
+        "songId": 265649028,
+        "title": "破茧"
+      }, {
+        "singerMid": "001mSbzt11qDjG",
+        "singerName": "蓝井艾露 (藍井エイル)",
+        "songId": 273432458,
+        "title": "I will..."
+      }, {
+        "singerMid": "000LExWa0hMj4m",
+        "singerName": "米津玄師 (よねづ けんし)",
+        "songId": 273626295,
+        "title": "海の幽霊 (海之幽灵)"
+      }]
+    }, {
+      "AdShareContent": "游戏音乐榜 2020年第33周",
+      "musichallTitle": "游戏音乐榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003ojW3f0hs4YS.jpg",
+      "topId": 73,
+      "rankSong": [{
+        "singerMid": "002KASw53FQbTK",
+        "singerName": "王者荣耀/Ki:Theory",
+        "songId": 271157473,
+        "title": "Evolve（淬炼)"
+      }, {
+        "singerMid": "003fA5G40k6hKc",
+        "singerName": "周深",
+        "songId": 273809180,
+        "title": "微光海洋"
+      }, {
+        "singerMid": "001BHDR33FZVZ0",
+        "singerName": "毛不易",
+        "songId": 273860722,
+        "title": "剑歌行"
+      }]
+    }, {
+      "AdShareContent": "达人音乐榜 2020年第33周",
+      "musichallTitle": "达人音乐榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002q69nT2svF6V.jpg",
+      "topId": 70,
+      "rankSong": [{
+        "singerMid": "004Pcoon0zuUX8",
+        "singerName": "肖小蚊子",
+        "songId": 273903115,
+        "title": "不知所措 (原唱: 王靖雯不胖)"
+      }, {
+        "singerMid": "000cM4bX2pj35c",
+        "singerName": "吃可爱多吗",
+        "songId": 273608131,
+        "title": "swagger (原唱: P.W.W.画风风)"
+      }, {
+        "singerMid": "004Pcoon0zuUX8",
+        "singerName": "肖小蚊子",
+        "songId": 272974046,
+        "title": "天外来物 (原唱:薛之谦)"
+      }]
+    }, {
+      "AdShareContent": "K歌金曲榜 2020年第33周",
+      "musichallTitle": "K歌金曲榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001GnjtC3I4l1z.jpg",
+      "topId": 36,
+      "rankSong": [{
+        "singerMid": "0025NhlN2yWrP4",
+        "singerName": "周杰伦",
+        "songId": 268352018,
+        "title": "Mojito"
+      }, {
+        "singerMid": "0014X2tu05PYbH",
+        "singerName": "傅如乔",
+        "songId": 256205408,
+        "title": "微微"
+      }, {
+        "singerMid": "003jJGvv3C82KZ",
+        "singerName": "刘若英",
+        "songId": 4830150,
+        "title": "后来"
+      }]
+    }, {
+      "AdShareContent": "腾讯音乐人原创榜 2020年第33周",
+      "musichallTitle": "腾讯音乐人原创榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004G5VF72WO5Sf.jpg",
+      "topId": 52,
+      "rankSong": [{
+        "singerMid": "0041BfPu1V60h2",
+        "singerName": "苏晗",
+        "songId": 273444023,
+        "title": "我的世界没有你"
+      }, {
+        "singerMid": "002MUFZM3LoKnS",
+        "singerName": "徐梦圆",
+        "songId": 273897325,
+        "title": "Better with you"
+      }, {
+        "singerMid": "003U6coz1AhN3H",
+        "singerName": "简弘亦",
+        "songId": 273631568,
+        "title": "冷战"
+      }]
+    }]
+  }, {
+    "groupID": 3,
+    "groupName": "全球榜",
+    "toplist": [{
+      "AdShareContent": "美国公告牌榜 2020年第32周",
+      "musichallTitle": "美国公告牌榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002M670u3mPjAZ.jpg",
+      "topId": 108,
+      "rankSong": [{
+        "singerMid": "004GxHhy0YoCul",
+        "singerName": "Harry Styles",
+        "songId": 247147766,
+        "title": "Watermelon Sugar"
+      }, {
+        "singerMid": "004ZSxGJ4OqRFt",
+        "singerName": "DaBaby/Roddy Ricch",
+        "songId": 258356870,
+        "title": "ROCKSTAR (Explicit)"
+      }, {
+        "singerMid": "001ySgA73xQ446",
+        "singerName": "Jack Harlow/DaBaby/Lil Wayne/Tory Lanez",
+        "songId": 269751419,
+        "title": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) (Remix|Explicit)"
+      }]
+    }, {
+      "AdShareContent": "美国iTunes榜 2020年第32周",
+      "musichallTitle": "美国iTunes榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000j0Vea3JWArj.jpg",
+      "topId": 123,
+      "rankSong": [{
+        "singerMid": "003KiJMA3QCdjW",
+        "singerName": "Cardi B/Megan Thee Stallion",
+        "songId": 274191968,
+        "title": "WAP (feat. Megan Thee Stallion) (Explicit)"
+      }, {
+        "singerMid": "001P7Vlq1d8j5M",
+        "singerName": "Darius Rucker",
+        "songId": 274155143,
+        "title": "Beers And Sunshine"
+      }, {
+        "singerMid": "000EeXRE0SMQw8",
+        "singerName": "Luke Bryan",
+        "songId": 255757740,
+        "title": "One Margarita"
+      }]
+    }, {
+      "AdShareContent": "韩国Melon榜 2020年第32周",
+      "musichallTitle": "韩国Melon榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002Jj9t43XhyvG.jpg",
+      "topId": 129,
+      "rankSong": [{
+        "singerMid": "002fHy1Z3YEuTW",
+        "singerName": "SSAK3 (싹쓰리)",
+        "songId": 272696828,
+        "title": "다시 여기 바닷가 (Beach Again)"
+      }, {
+        "singerMid": "001aAX6V1QArFZ",
+        "singerName": "华莎 (화사)",
+        "songId": 270029523,
+        "title": "마리아 (Maria)"
+      }, {
+        "singerMid": "002fHy1Z3YEuTW",
+        "singerName": "SSAK3 (싹쓰리)",
+        "songId": 273428937,
+        "title": "그 여름을 틀어줘 (Play the Summer)"
+      }]
+    }, {
+      "AdShareContent": "英国UK榜 2020年第32周",
+      "musichallTitle": "英国UK榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000zHKoW2tfiHo.jpg",
+      "topId": 107,
+      "rankSong": [{
+        "singerMid": "003hE6D72jNnqs",
+        "singerName": "Joel Corry/MNEK",
+        "songId": 270105496,
+        "title": "Head & Heart (feat. MNEK)"
+      }, {
+        "singerMid": "002jWERl2PyO4T",
+        "singerName": "Jawsh 685/Jason Derulo",
+        "songId": 268571160,
+        "title": "Savage Love (Laxed - Siren Beat) (Explicit)"
+      }, {
+        "singerMid": "003Znl1i45Vagf",
+        "singerName": "Nathan Dawe/Ksi",
+        "songId": 272849145,
+        "title": "Lighter(feat. KSI)"
+      }]
+    }, {
+      "AdShareContent": "日本公信榜 2020年第32周",
+      "musichallTitle": "日本公信榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001HTCU82Roewp.jpg",
+      "topId": 105,
+      "rankSong": [{
+        "singerMid": "000LExWa0hMj4m",
+        "singerName": "米津玄師 (よねづ けんし)",
+        "songId": 273626282,
+        "title": "感電"
+      }, {
+        "singerMid": "0030fd0D0UL7hy",
+        "singerName": "三浦春马 (みうら はるま)",
+        "songId": 273241205,
+        "title": "Night Diver"
+      }, {
+        "singerMid": "004eOSpH2dwCCs",
+        "singerName": "瑛人",
+        "songId": 264075350,
+        "title": "香水"
+      }]
+    }, {
+      "AdShareContent": "JOOX本地热播榜 2020年第32周",
+      "musichallTitle": "JOOX本地热播榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003GrTTm2pBcMe.jpg",
+      "topId": 126,
+      "rankSong": [{
+        "singerMid": "0009Sxdz11sr24",
+        "singerName": "Dear Jane",
+        "songId": 269547338,
+        "title": "哀的美敦书"
+      }, {
+        "singerMid": "003Nz2So3XXYek",
+        "singerName": "陈奕迅",
+        "songId": 271737658,
+        "title": "Shall We Talk (Tre Lune MMXIX)"
+      }, {
+        "singerMid": "001qDxJb18rQ8c",
+        "singerName": "李幸倪",
+        "songId": 272270398,
+        "title": "幸福门"
+      }]
+    }, {
+      "AdShareContent": "香港商台榜 2020年第32周",
+      "musichallTitle": "香港商台榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003c4u1V1T36zH.jpg",
+      "topId": 114,
+      "rankSong": [{
+        "singerMid": "000hle233NNEP3",
+        "singerName": "I Love You Boyz",
+        "songId": 269552031,
+        "title": "细路强劲舞"
+      }, {
+        "singerMid": "0025uYT23dPLye",
+        "singerName": "许靖韵",
+        "songId": 269169684,
+        "title": "代罪羔羊"
+      }, {
+        "singerMid": "002zUBNc22TxDY",
+        "singerName": "MIRROR",
+        "songId": 269570444,
+        "title": "IGNITED (Too hot to handle version)"
+      }]
+    }, {
+      "AdShareContent": "台湾KKBOX榜 2020年第32周",
+      "musichallTitle": "台湾KKBOX榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002vzoCH0PYSCU.jpg",
+      "topId": 127,
+      "rankSong": [{
+        "singerMid": "004IJpRZ2oS9pP",
+        "singerName": "瘦子E.SO",
+        "songId": 270556582,
+        "title": "WAIT"
+      }, {
+        "singerMid": "004IJpRZ2oS9pP",
+        "singerName": "瘦子E.SO",
+        "songId": 270556583,
+        "title": "I Wish I Was There"
+      }, {
+        "singerMid": "00055w5N02mbEc",
+        "singerName": "井胧",
+        "songId": 127510670,
+        "title": "丢了你"
+      }]
+    }, {
+      "AdShareContent": "YouTube音乐排行榜 2020年第32周",
+      "musichallTitle": "YouTube音乐排行榜",
+      "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000uuZ3k2xOYtl.jpg",
+      "topId": 128,
+      "rankSong": [{
+        "singerMid": "003rLetL0AcGNH",
+        "singerName": "Future/Drake",
+        "songId": 250132098,
+        "title": "Life Is Good (Explicit)"
+      }, {
+        "singerMid": "004ZSxGJ4OqRFt",
+        "singerName": "DaBaby/Roddy Ricch",
+        "songId": 258356870,
+        "title": "ROCKSTAR (Explicit)"
+      }, {
+        "singerMid": "001ICsPd3euqLP",
+        "singerName": "Lil Baby/42 Dugg",
+        "songId": 261913452,
+        "title": "We Paid (Explicit)"
+      }]
+    }]
+  }]
+}
