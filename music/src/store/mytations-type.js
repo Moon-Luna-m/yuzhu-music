@@ -1,0 +1,8 @@
+export const SET_SINGER = "SET_SINGER"
+export const SET_DISC = "SET_DISC"
+export const SET_SHOW = "SET_SHOW"
+export const SET_STATUSINDEX = "SET_STATUSINDEX"
+export const SET_MODELINDEX = "SET_MODELINDEX"
+export const SET_SONGLIST = "SET_SONGLIST"
+export const SET_SONGINDEX = "SET_SONGINDEX"
+export const SET_CURRENTSONG="SET_CURRENTSONG"
